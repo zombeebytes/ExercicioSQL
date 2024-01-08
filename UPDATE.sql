@@ -1,1 +1,0 @@
-UPDATE funcionarios SET salario = 1500.00 WHERE id =5; 
